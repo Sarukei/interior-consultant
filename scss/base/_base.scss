@@ -10,7 +10,16 @@ html {
 	box-sizing: border-box;
 }
 
+body {
+	background-color: $color-dark-bg;
+	color: $color-text;
+}
+
 img {
 	max-width: 100%;
 	height: auto;
+}
+
+a {
+	color: $color-text;
 }

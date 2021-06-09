@@ -16,7 +16,30 @@ html {
           box-sizing: border-box;
 }
 
+body {
+  background-color: #181719;
+  color: white;
+}
+
 img {
   max-width: 100%;
   height: auto;
+}
+
+a {
+  color: white;
+}
+
+.logo {
+  font-family: "Crimson Pro", serif;
+  text-transform: uppercase;
+  font-weight: 200;
+  font-size: 0.875rem;
+  padding: 0.5rem;
+  border: 1px solid white;
+  display: inline-block;
+}
+
+.hamburger-menu__icon {
+  font-size: 1.375rem;
 }/*# sourceMappingURL=main.css.map */

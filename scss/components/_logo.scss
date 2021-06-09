@@ -1,0 +1,10 @@
+.logo {
+	font-family: $font-logo;
+	text-transform: uppercase;
+	font-weight: 200;
+	font-size: 0.875rem;
+	padding: 0.5rem;
+
+	border: 1px solid $color-text;
+	display: inline-block;
+}
